@@ -1,2 +1,9 @@
+fastapi
+uvicorn
 streamlit
+psycopg2
+langchain
+langchain_community
+requests
 openai
+psycopg2-
